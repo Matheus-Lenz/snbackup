@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-02 18:39:20</sys_created_on>
+        <sys_id>4596f07cc3b7221012482925990131d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1805892_netflix_suggestion.x_1805892_netflix.moderator</sys_name>
+        <sys_package display_value="Netflix" source="x_1805892_netflix">e7c34028c33b221012482925990131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">e7c34028c33b221012482925990131de</sys_scope>
+        <sys_security_acl display_value="x_1805892_netflix_suggestion">4996f07cc3b7221012482925990131d2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4596f07cc3b7221012482925990131d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-02 18:39:20</sys_updated_on>
+        <sys_user_role display_value="x_1805892_netflix.moderator" name="x_1805892_netflix.moderator">f3c34028c33b221012482925990131f5</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
