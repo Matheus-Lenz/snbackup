@@ -7,9 +7,9 @@
         <element label="Production" max_length="250" name="production" type="string"/>
         <element choice="1" label="Type" max_length="40" name="type" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Epsode" sequence="1" value="epsode"/>
                 <element inactive_on_update="false" label="Series" sequence="2" value="series"/>
                 <element inactive_on_update="false" label="Movie" sequence="0" value="movie"/>
+                <element inactive_on_update="false" label="Episode" sequence="1" value="episode"/>
             </choice>
         </element>
         <element default="0" label="IMDB Rating" max_length="40" name="imdb_rating" type="float"/>
