@@ -20,6 +20,7 @@
             </choice>
         </element>
         <element default="0" label="IMDB Rating" max_length="40" name="imdb_rating" type="float"/>
+        <element label="Integration Error Message" max_length="1000" name="integration_error_message" type="string"/>
         <element choice="1" default="1" label="Integration State" max_length="40" name="integration_state" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Integrating" sequence="1" value="2"/>

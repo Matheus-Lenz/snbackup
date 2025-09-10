@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="Integration" section_id="798aa77ac33baa10124829259901318e" sys_domain="global" table="x_1805892_netflix_media" version="3" view="">
+    <sys_ui_section caption="Country and Language" section_id="d70afcdfc333221012482925990131a8" sys_domain="global" table="x_1805892_netflix_media" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>integration_state</element>
+            <element>country</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-10 14:02:22</sys_created_on>
-            <sys_id>b5e3c5dbc373221012482925990131a8</sys_id>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>130afcdfc333221012482925990131f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Integration" display_value="Integration" name="x_1805892_netflix_media" sys_domain="global" view="Default view">798aa77ac33baa10124829259901318e</sys_ui_section>
+            <sys_ui_section caption="Country and Language" display_value="Country and Language" name="x_1805892_netflix_media" sys_domain="global" view="Default view">d70afcdfc333221012482925990131a8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-10 14:02:22</sys_updated_on>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,50 +18,50 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-10 14:02:22</sys_created_on>
-            <sys_id>f1e3c5dbc373221012482925990131a9</sys_id>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>1b0afcdfc333221012482925990131f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Integration" display_value="Integration" name="x_1805892_netflix_media" sys_domain="global" view="Default view">798aa77ac33baa10124829259901318e</sys_ui_section>
+            <sys_ui_section caption="Country and Language" display_value="Country and Language" name="x_1805892_netflix_media" sys_domain="global" view="Default view">d70afcdfc333221012482925990131a8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-10 14:02:22</sys_updated_on>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>integration_error_message</element>
+            <element>language</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-10 14:02:22</sys_created_on>
-            <sys_id>f9e3c5dbc373221012482925990131a9</sys_id>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>130afcdfc333221012482925990131f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Integration" display_value="Integration" name="x_1805892_netflix_media" sys_domain="global" view="Default view">798aa77ac33baa10124829259901318e</sys_ui_section>
+            <sys_ui_section caption="Country and Language" display_value="Country and Language" name="x_1805892_netflix_media" sys_domain="global" view="Default view">d70afcdfc333221012482925990131a8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-10 14:02:22</sys_updated_on>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption>Integration</caption>
+            <caption>Country and Language</caption>
             <header>false</header>
             <name>x_1805892_netflix_media</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-09 12:53:24</sys_created_on>
+            <sys_created_on>2025-09-10 13:19:19</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>798aa77ac33baa10124829259901318e</sys_id>
+            <sys_id>d70afcdfc333221012482925990131a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_1805892_netflix_media</sys_name>
             <sys_overrides/>
             <sys_package display_value="Netflix" source="x_1805892_netflix">e7c34028c33b221012482925990131de</sys_package>
             <sys_policy/>
             <sys_scope display_value="Netflix">e7c34028c33b221012482925990131de</sys_scope>
-            <sys_update_name>sys_ui_section_798aa77ac33baa10124829259901318e</sys_update_name>
+            <sys_update_name>sys_ui_section_d70afcdfc333221012482925990131a8</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-09 12:53:24</sys_updated_on>
+            <sys_updated_on>2025-09-10 13:19:19</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>
