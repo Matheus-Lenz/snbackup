@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Read-only when completed</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+ 
+if (gForm.getValue('state') == '3') { // Replace '3' with the actual value for "Completed"
+  var allFields = gForm.getEditableFields();
+  for (var i = 0; i < allFields.length; i++) {
+    gForm.setReadOnly(allFields[i], true);
+  }
+}
+
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 14:44:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e07dba30c3c8f61012482925990131d5</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Read-only when completed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Netflix" source="x_1805892_netflix">e7c34028c33b221012482925990131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">e7c34028c33b221012482925990131de</sys_scope>
+        <sys_update_name>sys_script_client_e07dba30c3c8f61012482925990131d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 14:48:34</sys_updated_on>
+        <table>x_1805892_netflix_media</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Netflix">e7c34028c33b221012482925990131de</application>
+        <file_path/>
+        <instance_id>313f7b06eb6d6e5cc040fddacad0cd21</instance_id>
+        <instance_name>dev348309</instance_name>
+        <name>sys_script_client_e07dba30c3c8f61012482925990131d5</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Read-only when completed&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+ 
+if (gForm.getValue('state') == '3') { // Replace '3' with the actual value for "Completed"
+  var allFields = gForm.getEditableFields();
+  for (var i = 0; i &lt; allFields.length; i++) {
+    gForm.setReadOnly(allFields[i], true);
+  }
+}
+
+
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-09-15 14:44:46&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;e07dba30c3c8f61012482925990131d5&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;Read-only when completed&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Netflix" source="x_1805892_netflix"&gt;e7c34028c33b221012482925990131de&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Netflix"&gt;e7c34028c33b221012482925990131de&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_e07dba30c3c8f61012482925990131d5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-09-15 14:48:34&lt;/sys_updated_on&gt;&lt;table&gt;x_1805892_netflix_media&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1364137090</payload_hash>
+        <record_name>Read-only when completed</record_name>
+        <reverted_from/>
+        <source>ac670471c3bf2610124829259901314e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 14:48:34</sys_created_on>
+        <sys_id>d76efaf0c3c8f6101248292599013106</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1994dd95a0e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 14:48:34</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>5f6efaf0cfc8f610e9cd117486702805</update_guid>
+        <update_guid_history>5f6efaf0cfc8f610e9cd117486702805:1364137090,f34e3eb0bec8f610d0a5cd80e269b78c:-130792555,58edba70d9c8f6105db8a4efb9cf2e2d:-1889427299,278d32b025c8f61092654b52cf4d5510:-448973699</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 14:51:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>b7d196820d01477493821225e6ed2319</sys_id>
+        <sys_metadata>e07dba30c3c8f61012482925990131d5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Read-only when completed</sys_name>
+        <sys_package display_value="Netflix" source="x_1805892_netflix">e7c34028c33b221012482925990131de</sys_package>
+        <sys_parent display_value="Media">73aabfa4c3b32210124829259901317b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">e7c34028c33b221012482925990131de</sys_scope>
+        <sys_scope_delete display_value="">157b5884b11b4508897a38c6ba810984</sys_scope_delete>
+        <sys_update_name>sys_script_client_e07dba30c3c8f61012482925990131d5</sys_update_name>
+        <sys_update_version display_value="sys_script_client_e07dba30c3c8f61012482925990131d5">d76efaf0c3c8f6101248292599013106</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 14:51:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
