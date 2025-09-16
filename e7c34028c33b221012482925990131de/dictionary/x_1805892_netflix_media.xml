@@ -5,6 +5,7 @@
             <choice>
                 <element inactive_on_update="false" label="Draft" sequence="0" value="1"/>
                 <element inactive_on_update="false" label="Completed" sequence="1" value="3"/>
+                <element inactive_on_update="false" label="Duplicate" sequence="2" value="7"/>
             </choice>
         </element>
         <element label="Poster" max_length="1024" name="poster" type="url"/>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="84baff24c3b32210124829259901317d" sys_domain="global" table="x_1805892_netflix_media" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>930afcdfc333221012482925990131df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>130afcdfc333221012482925990131e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>1b0afcdfc333221012482925990131e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>genre</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>130afcdfc333221012482925990131e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>1b0afcdfc333221012482925990131e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>130afcdfc333221012482925990131e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>1b0afcdfc333221012482925990131e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>release_year</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>130afcdfc333221012482925990131e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>release_date</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>1b0afcdfc333221012482925990131e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>130afcdfc333221012482925990131e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>synopsis</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>1b0afcdfc333221012482925990131e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>writers</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>130afcdfc333221012482925990131e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>production</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>1b0afcdfc333221012482925990131e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>website</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>130afcdfc333221012482925990131e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>poster</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>1b0afcdfc333221012482925990131e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1805892_netflix_poster.xml</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+            <sys_id>130afcdfc333221012482925990131e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="poster">84b09beec3f36a101248292599013169</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1805892_netflix_media</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-02 14:17:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84baff24c3b32210124829259901317d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1805892_netflix_media</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Netflix" source="x_1805892_netflix">e7c34028c33b221012482925990131de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Netflix">e7c34028c33b221012482925990131de</sys_scope>
+            <sys_update_name>sys_ui_section_84baff24c3b32210124829259901317d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-02 14:17:41</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Netflix">e7c34028c33b221012482925990131de</application>
+        <file_path/>
+        <instance_id>313f7b06eb6d6e5cc040fddacad0cd21</instance_id>
+        <instance_name>dev348309</instance_name>
+        <name>sys_ui_section_84baff24c3b32210124829259901317d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="84baff24c3b32210124829259901317d" sys_domain="global" table="x_1805892_netflix_media" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>title</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 13:19:20</sys_created_on><sys_id>930afcdfc333221012482925990131df</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 13:19:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 13:19:20</sys_created_on><sys_id>130afcdfc333221012482925990131e0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 13:19:20</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>type</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 13:19:20</sys_created_on><sys_id>1b0afcdfc333221012482925990131e0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 13:19:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>genre</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 13:19:20</sys_created_on><sys_id>130afcdfc333221012482925990131e1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 13:19:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>category</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 13:19:20</sys_created_on><sys_id>1b0afcdfc333221012482925990131e1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 13:19:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 13:19:20</sys_created_on><sys_id>130afcdfc333221012482925990131e2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 13:19:20</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 13:19:20</sys_created_on><sys_id>1b0afcdfc333221012482925990131e2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 13:19:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>release_year</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 13:19:20</sys_created_on><sys_id>130afcdfc333221012482925990131e3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 13:19:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>release_date</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 13:19:20</sys_created_on><sys_id>1b0afcdfc333221012482925990131e3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 13:19:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 13:19:20</sys_created_on><sys_id>130afcdfc333221012482925990131e4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 13:19:20</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>synopsis</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 13:19:20</sys_created_on><sys_id>1b0afcdfc333221012482925990131e4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 13:19:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>writers</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 13:19:20</sys_created_on><sys_id>130afcdfc333221012482925990131e5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 13:19:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>production</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 13:19:20</sys_created_on><sys_id>1b0afcdfc333221012482925990131e5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 13:19:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>website</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 13:19:20</sys_created_on><sys_id>130afcdfc333221012482925990131e6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 13:19:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>poster</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 13:19:20</sys_created_on><sys_id>1b0afcdfc333221012482925990131e6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 13:19:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_1805892_netflix_poster.xml</element><position>15</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 13:19:20</sys_created_on><sys_id>130afcdfc333221012482925990131e7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="poster">84b09beec3f36a101248292599013169</sys_ui_formatter><sys_ui_section caption="NULL" display_value="" name="x_1805892_netflix_media" sys_domain="global" view="Default view">84baff24c3b32210124829259901317d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 13:19:20</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1805892_netflix_media</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-02 14:17:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>84baff24c3b32210124829259901317d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1805892_netflix_media</sys_name><sys_overrides/><sys_package display_value="Netflix" source="x_1805892_netflix">e7c34028c33b221012482925990131de</sys_package><sys_policy/><sys_scope display_value="Netflix">e7c34028c33b221012482925990131de</sys_scope><sys_update_name>sys_ui_section_84baff24c3b32210124829259901317d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-02 14:17:41</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-590281102</payload_hash>
+        <record_name>Media</record_name>
+        <reverted_from/>
+        <source>ac670471c3bf2610124829259901314e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-10 13:19:20</sys_created_on>
+        <sys_id>970afcdfc333221012482925990131ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19933c7dd6f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-10 13:19:20</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>1f0afcdf9333221080bd807c47229de9</update_guid>
+        <update_guid_history>1f0afcdf9333221080bd807c47229de9:-590281102,c28ae77aa33baa1037a5336b590bb84a:-157220510,b1a9a73af63baa10b9d7354185c3b44b:-709909554,3e68afb6583baa10c57e134fe0c51b43:-157220510,20c4883e8df76a10ac177132f08541f2:1485653232,aa434cba23f76a10f70c3eb8d80e74f5:869849648,74541326c5376a10dc77aaecafcf4ee3:-17291651,e8d248305bf32210e07a2063775c26a1:2061921466,08baff245eb32210f35494625eca4280:-418244226</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-16 16:08:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>2adb7abe0b904c3d9505c0eab61726c9</sys_id>
+        <sys_metadata>84baff24c3b32210124829259901317d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1805892_netflix_media</sys_name>
+        <sys_package display_value="Netflix" source="x_1805892_netflix">e7c34028c33b221012482925990131de</sys_package>
+        <sys_parent display_value="Media">73aabfa4c3b32210124829259901317b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">e7c34028c33b221012482925990131de</sys_scope>
+        <sys_scope_delete display_value="">157b5884b11b4508897a38c6ba810984</sys_scope_delete>
+        <sys_update_name>sys_ui_section_84baff24c3b32210124829259901317d</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_84baff24c3b32210124829259901317d">970afcdfc333221012482925990131ea</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-16 16:08:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
